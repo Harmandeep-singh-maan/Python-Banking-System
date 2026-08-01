@@ -1,106 +1,81 @@
-# 🏦 Python Banking System
+# 🏦 Python Banking System (OOP)
 
-A beginner-friendly banking system built in Python while learning programming fundamentals.
+A simple command-line banking application built using **Object-Oriented Programming (OOP)** in Python.
 
-This project simulates basic banking operations using Python dictionaries, functions, loops, and conditional statements. It was developed as a learning project to strengthen problem-solving and programming skills.
+This project was created to practice Python fundamentals, OOP concepts, input validation, loops, dictionaries, and basic banking operations.
 
 ---
 
 ## ✨ Features
 
-- 🆕 Create a new bank account
-- 💰 Deposit money
-- 💸 Withdraw money
-- 📊 Check account balance
-- 📜 View transaction history
-- 🔢 Automatic account number generation
-- 🖥️ Menu-driven command-line interface
+- ✅ Create Account
+- ✅ Deposit Money
+- ✅ Withdraw Money
+- ✅ Check Balance
+- ✅ Transfer Money
+- ✅ Change PIN
+- ✅ Delete Account
+- ✅ View Account Details
+- ✅ Transaction History
+- ✅ Input Validation
+- ✅ Mobile Number Validation
+- ✅ PIN Validation
+- ✅ Duplicate Mobile Number Detection
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python 3
-- Functions
+- Object-Oriented Programming (OOP)
 - Dictionaries
 - Lists
 - Loops
-- Conditional Statements
+- Functions
+- Regular Expressions (`re`)
 
 ---
 
-## 📂 Project Structure
+## 📚 Concepts Practiced
 
-```
-Python-Banking-System/
-│
-├── Bank.py
-└── README.md
-```
-
----
-
-## 🎯 Learning Objectives
-
-This project helped me practice:
-
-- Python syntax
-- Function creation
-- Dictionary operations
-- Program flow and logic
-- Input handling
-- Building a complete console application
+- Classes & Objects
+- Inheritance
+- Static Methods
+- Data Validation
+- Nested Dictionaries
+- Lists
+- Loops
+- Exception Handling
+- User Input Validation
+- Transactions
+- Method Calling
+- Basic Banking Logic
 
 ---
 
 ## 🚀 Future Improvements
 
-The next version of this project will include:
-
-- Object-Oriented Programming (OOP)
-- PIN authentication
-- Better input validation
-- Exception handling
-- Database integration (SQLite/PostgreSQL)
-- FastAPI backend
-- AI-powered banking assistant
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Harmandeep-singh-maan/Python-Banking-System.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Python-Banking-System
-```
-
-3. Run the program:
-
-```bash
-python Bank.py
-```
+- Save account data in JSON/SQLite
+- Login attempt limit
+- Interest calculation
+- Admin panel
+- Password masking
+- Account search
+- Better transaction formatting
+- Date & Time for every transaction
+- GUI using Tkinter or CustomTkinter
+- Database integration
 
 ---
 
-## 📈 Project Status
+## 🎯 Learning Purpose
 
-✅ Version 1.0 (Procedural Python)
-
-An Object-Oriented Programming (OOP) version is currently under development.
+This project is part of my Python learning journey. It helped me understand how real-world applications can be structured using Object-Oriented Programming.
 
 ---
 
 ## 👨‍💻 Author
 
 **Harmandeep Singh Maan**
-
-Currently learning Python, Backend Development, and AI by building real-world projects.
 
 GitHub: https://github.com/Harmandeep-singh-maan
