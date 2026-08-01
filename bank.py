@@ -326,4 +326,4 @@ class Menu(Banking , Accounts):
                 print("invalid input!!!! ")
 
 
-Sbi = Menu.menu()
+Bank = Menu.menu()
