@@ -207,8 +207,8 @@ class Banking(Validation):
 
                 if Transfer_Amount > Accounts.Account_list[senders_ac]["Balance"]:
                     print(f"Don't have enough balance \n {Accounts.Account_list[senders_ac]['Balance']} is your current balance ")
-                    break
-
+                    continue
+                
                 if Transfer_Amount > 0:
                     Accounts.Account_list[senders_ac]['Balance'] -= Transfer_Amount
                     print (f"your current balance is {Accounts.Account_list[senders_ac]['Balance']}")
